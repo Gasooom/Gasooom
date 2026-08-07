@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Abualgasim Ibrahim 👋
 
-<!--
-**Gasooom/Gasooom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on building production-ready AI applications using LLMs, RAG, AI Agents, and FastAPI.
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hybrid RAG Systems
+- AI Agents
+- LangGraph
+- FastAPI
+- Production AI
+
+## Tech Stack
+
+Python • FastAPI • LangChain • LangGraph • FAISS • ChromaDB • Gemini • Hugging Face • Docker
+
+## Featured Projects
+
+- ContextIQ
+ 
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/abualgasim-ibrahim-828183226/)
+
+Email :aboelgasimibrahim999@gmail.com
