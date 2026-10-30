@@ -1,0 +1,11 @@
+<svg width="640" height="180" viewBox="0 0 640 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Duka architecture</title><desc id="d">A WhatsApp message flows through an AI commerce platform to a store dashboard.</desc>
+  <rect width="640" height="180" rx="14" fill="#0B1220"/><path d="M30 90H610" stroke="#164E63" stroke-width="2" stroke-dasharray="6 8"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="12" fill="#BAE6FD">
+    <rect x="36" y="57" width="108" height="66" rx="10" fill="#102A43" stroke="#22D3EE"/><text x="90" y="86">WhatsApp</text><text x="90" y="104" fill="#67E8F9">customer</text>
+    <rect x="188" y="42" width="122" height="96" rx="10" fill="#102A43" stroke="#38BDF8"/><text x="249" y="75">Duka</text><text x="249" y="94" fill="#67E8F9">AI agent</text><text x="249" y="113" fill="#94A3B8">multi-tenant</text>
+    <rect x="354" y="57" width="108" height="66" rx="10" fill="#171B3A" stroke="#8B5CF6"/><text x="408" y="86">Orders</text><text x="408" y="104" fill="#C4B5FD">payments</text>
+    <rect x="506" y="57" width="98" height="66" rx="10" fill="#171B3A" stroke="#A78BFA"/><text x="555" y="86">Business</text><text x="555" y="104" fill="#C4B5FD">dashboard</text>
+  </g>
+  <g fill="#22D3EE"><circle cx="163" cy="90" r="3"/><circle cx="332" cy="90" r="3"/><circle cx="484" cy="90" r="3"/></g>
+</svg>

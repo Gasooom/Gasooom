@@ -1,0 +1,11 @@
+<svg width="640" height="180" viewBox="0 0 640 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">Hanabneho civic recovery workflow</title><desc id="d">A citizen report becomes a structured damage assessment and recovery action.</desc>
+  <rect width="640" height="180" rx="14" fill="#0B1220"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="12" fill="#BAE6FD">
+    <rect x="30" y="62" width="108" height="56" rx="9" fill="#102A43" stroke="#22D3EE"/><text x="84" y="88">Citizen</text><text x="84" y="105" fill="#67E8F9">photo + report</text>
+    <rect x="190" y="62" width="112" height="56" rx="9" fill="#171B3A" stroke="#8B5CF6"/><text x="246" y="88">AI vision</text><text x="246" y="105" fill="#C4B5FD">assessment</text>
+    <rect x="354" y="62" width="112" height="56" rx="9" fill="#102A43" stroke="#38BDF8"/><text x="410" y="88">Routing</text><text x="410" y="105" fill="#67E8F9">authority</text>
+    <rect x="518" y="62" width="92" height="56" rx="9" fill="#171B3A" stroke="#A78BFA"/><text x="564" y="88">Action</text><text x="564" y="105" fill="#C4B5FD">dashboard</text>
+  </g>
+  <g stroke="#38BDF8" stroke-width="2"><path d="M138 90H190M302 90H354M466 90H518"/></g><g fill="#22D3EE"><circle cx="164" cy="90" r="3"/><circle cx="328" cy="90" r="3"/><circle cx="492" cy="90" r="3"/></g>
+</svg>
