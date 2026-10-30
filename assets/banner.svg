@@ -1,0 +1,40 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Abualgasim Ibrahim — AI Engineer, Agentic Systems, Data Science</title>
+  <desc id="desc">A dark navy technical banner with cyan and violet connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B16"/>
+      <stop offset="0.58" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111433"/>
+    </linearGradient>
+    <linearGradient id="line" x1="650" y1="40" x2="1130" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <path d="M0 278C205 232 290 304 470 258C665 208 710 70 893 105C1056 136 1097 57 1200 34" stroke="#1E293B" stroke-width="1"/>
+  <path d="M0 288C205 242 290 314 470 268C665 218 710 80 893 115C1056 146 1097 67 1200 44" stroke="#0EA5E9" stroke-opacity="0.16"/>
+  <g stroke="url(#line)" stroke-width="1.5" opacity="0.72">
+    <path d="M710 55L835 130L1010 74L1114 168L1036 270L874 236L758 281L835 130L874 236L1114 168"/>
+    <path d="M1010 74L1036 270"/>
+    <path d="M758 281L650 204L710 55"/>
+  </g>
+  <g fill="#22D3EE" filter="url(#glow)">
+    <circle cx="710" cy="55" r="4"/><circle cx="835" cy="130" r="5"/><circle cx="1010" cy="74" r="4"/>
+    <circle cx="1114" cy="168" r="5"/><circle cx="1036" cy="270" r="4"/><circle cx="874" cy="236" r="4"/>
+    <circle cx="758" cy="281" r="5"/><circle cx="650" cy="204" r="3"/>
+  </g>
+  <circle cx="1040" cy="74" r="54" fill="#8B5CF6" fill-opacity="0.08"/>
+  <circle cx="1114" cy="168" r="36" fill="#22D3EE" fill-opacity="0.07"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="74" y="106" fill="#67E8F9" font-size="15" font-weight="700" letter-spacing="3">GASOOOM / AI SYSTEMS LAB</text>
+    <text x="70" y="164" fill="#F8FAFC" font-size="42" font-weight="750">Abualgasim Ibrahim</text>
+    <text x="74" y="202" fill="#CBD5E1" font-size="20">AI Engineer  ·  Agentic Systems  ·  Data Science</text>
+    <text x="74" y="252" fill="#94A3B8" font-size="15">Building practical AI systems for problems that matter.</text>
+  </g>
+</svg>

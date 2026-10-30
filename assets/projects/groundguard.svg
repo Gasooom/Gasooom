@@ -1,0 +1,13 @@
+<svg width="640" height="180" viewBox="0 0 640 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">GroundGuard evaluation gate</title><desc id="d">An LLM answer is checked for grounding, safety, and contradiction before a decision.</desc>
+  <rect width="640" height="180" rx="14" fill="#0B1220"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="12" fill="#BAE6FD">
+    <rect x="28" y="62" width="108" height="56" rx="9" fill="#102A43" stroke="#22D3EE"/><text x="82" y="95">LLM answer</text>
+    <rect x="180" y="28" width="106" height="40" rx="8" fill="#102A43" stroke="#38BDF8"/><text x="233" y="53">Grounding</text>
+    <rect x="180" y="71" width="106" height="40" rx="8" fill="#102A43" stroke="#38BDF8"/><text x="233" y="96">Safety</text>
+    <rect x="180" y="114" width="106" height="40" rx="8" fill="#102A43" stroke="#38BDF8"/><text x="233" y="139">Contradiction</text>
+    <rect x="352" y="62" width="112" height="56" rx="9" fill="#171B3A" stroke="#8B5CF6"/><text x="408" y="88">Score</text><text x="408" y="105" fill="#C4B5FD">decision gate</text>
+    <rect x="506" y="62" width="106" height="56" rx="9" fill="#102A43" stroke="#22D3EE"/><text x="559" y="88">ACCEPT</text><text x="559" y="105" fill="#67E8F9">FLAG / REJECT</text>
+  </g>
+  <g stroke="#38BDF8" stroke-width="2"><path d="M136 90H180M286 48L352 78M286 91H352M286 134L352 102M464 90H506"/></g>
+</svg>

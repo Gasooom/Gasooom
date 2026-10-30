@@ -1,0 +1,12 @@
+<svg width="640" height="180" viewBox="0 0 640 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+  <title id="t">ResearchOS evidence pipeline</title><desc id="d">A research question is planned, investigated by agents, and evaluated with traceable evidence.</desc>
+  <rect width="640" height="180" rx="14" fill="#0B1220"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle" font-size="12" fill="#BAE6FD">
+    <rect x="30" y="62" width="106" height="56" rx="9" fill="#102A43" stroke="#22D3EE"/><text x="83" y="95">Question</text>
+    <rect x="174" y="62" width="106" height="56" rx="9" fill="#171B3A" stroke="#8B5CF6"/><text x="227" y="95">Planner</text>
+    <rect x="318" y="30" width="112" height="44" rx="8" fill="#102A43" stroke="#38BDF8"/><text x="374" y="57">Retrieve</text>
+    <rect x="318" y="106" width="112" height="44" rx="8" fill="#102A43" stroke="#38BDF8"/><text x="374" y="133">Synthesize</text>
+    <rect x="474" y="62" width="136" height="56" rx="9" fill="#171B3A" stroke="#A78BFA"/><text x="542" y="88">Claims +</text><text x="542" y="105" fill="#C4B5FD">evaluation</text>
+  </g>
+  <g stroke="#38BDF8" stroke-width="2"><path d="M136 90H174M280 90H318M430 52L474 80M430 128L474 100"/></g><g fill="#22D3EE"><circle cx="155" cy="90" r="3"/><circle cx="299" cy="90" r="3"/><circle cx="452" cy="65" r="3"/><circle cx="452" cy="115" r="3"/></g>
+</svg>
